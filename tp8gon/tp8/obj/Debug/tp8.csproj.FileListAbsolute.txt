@@ -1,0 +1,14 @@
+G:\taller_1\repo8\tp8\tp8\bin\Debug\tp8.exe.config
+G:\taller_1\repo8\tp8\tp8\bin\Debug\tp8.exe
+G:\taller_1\repo8\tp8\tp8\bin\Debug\tp8.pdb
+G:\taller_1\repo8\tp8\tp8\obj\Debug\tp8.csprojAssemblyReference.cache
+G:\taller_1\repo8\tp8\tp8\obj\Debug\tp8.csproj.CoreCompileInputs.cache
+G:\taller_1\repo8\tp8\tp8\obj\Debug\tp8.exe
+G:\taller_1\repo8\tp8\tp8\obj\Debug\tp8.pdb
+G:\taller_1\repo8\tp8gon\tp8\obj\Debug\tp8.csprojAssemblyReference.cache
+G:\taller_1\repo8\tp8gon\tp8\obj\Debug\tp8.csproj.CoreCompileInputs.cache
+G:\taller_1\repo8\tp8gon\tp8\obj\Debug\tp8.exe
+G:\taller_1\repo8\tp8gon\tp8\obj\Debug\tp8.pdb
+G:\taller_1\repo8\tp8gon\tp8\bin\Debug\tp8.exe.config
+G:\taller_1\repo8\tp8gon\tp8\bin\Debug\tp8.exe
+G:\taller_1\repo8\tp8gon\tp8\bin\Debug\tp8.pdb
